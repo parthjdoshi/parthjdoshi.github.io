@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Research Experience"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 
 ---
+
+My research interests lie at the intersection of computer vision and machine learning. One of the areas that fascinates me the most is the use of unsupervised learning to alleviate the need for large-scale annotations of training data.
 
 Application of Deep Learning in Facial Recognition
 ======
