@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Application of Deep Learning in Face Recognition
+Application of Deep Learning in Facial Recognition
 ======
 * August 2021
 * Chapter published in [Design of Intelligent Applications using ML/DL](https://books.google.com/books?hl=en&lr=&id=VHM3EAAAQBAJ&oi=fnd&pg=PA195&dq=info:OfWLggYxkcEJ:scholar.google.com&ots=lUkJxXLmyw&sig=QbvZ9YNZeeu6vJeS6vVnm97k_is)
