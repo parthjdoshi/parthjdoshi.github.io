@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-My research interests lie at the intersection of computer vision and machine learning. One of the areas that fascinates me the most is the use of unsupervised learning to alleviate the need for large-scale annotations of training data.
+My research interests lie at the intersection of computer vision and machine learning. One of the areas that fascinates me the most is the use of unsupervised and self-supervised learning to alleviate the need for large-scale annotation of training data.
 
 Application of Deep Learning in Facial Recognition
 ======
