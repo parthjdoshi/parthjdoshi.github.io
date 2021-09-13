@@ -33,7 +33,7 @@ Professional Experience
   * Benchmarked MOT performance on the Google Coral USB accelerator using TensorFlow-lite
   * Utilized TensorRT to improve inference speeds on the Nvidia Jetson platform
  
- * Desynova Digital Pvt. Ltd.
+* Desynova Digital Pvt. Ltd.
   * ML Engineering Intern (Jun 2019 - Oct 2019) & Software Development Intern (Jun 2018 - Aug 2018)
   * Implemented pipelines for various video processing tasks leveraging Python and Google Cloud Platform
   * Improved video search by extracting textual metadata from movie credits with optical character recognition
