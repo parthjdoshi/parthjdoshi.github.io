@@ -15,4 +15,6 @@ Beyond the Imitation Game - Benchmark
 DJ Unicode
 ======
 * A student chapter focused on encouraging open-source software development amongst younger students
-* 
+* Contributed through various roles over a period of 3 years
+* Built, as part of a team, a website to find mentors and hackathon partners with specific skill-sets ([Code](https://github.com/djunicode/DJ-Comps-Skill-Finder))
+* As a mentor, led two teams of over 10 students on projects aimed at solving college-level problems
