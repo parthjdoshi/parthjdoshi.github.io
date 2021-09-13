@@ -21,7 +21,7 @@ Education
 * University of Mumbai
   * B.E. in Computer Engineering
   * Aug 2016 - Sep 2020
-  * CGPA: 9.9/10
+  * GPA: 9.9/10
 
 Professional Experience
 ----
