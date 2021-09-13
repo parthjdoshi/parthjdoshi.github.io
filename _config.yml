@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Parth Doshi"
 title_separator          : "-"
 name                     : &name "Parth Doshi"
-description              : &description "CSE MS<br/>UC San Diego"
+description              : &description "CSE MS Student<br/>UC San Diego"
 url                      : https://parthjdoshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "parthjdoshi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Parth Doshi"
   avatar           : "profile.png"
-  bio              : "CSE MS<br/>UC San Diego"
+  bio              : "CSE MS Student<br/>UC San Diego"
   location         : "La Jolla, CA"
   employer         :
   pubmed           : 
