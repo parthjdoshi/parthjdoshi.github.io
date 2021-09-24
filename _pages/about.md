@@ -17,7 +17,7 @@ Education
 * University of California San Diego
   * M.S. in Computer Science and Engineering
   * Sep 2021 - Jun 2023 (Expected)
-  * Courses: Algorithms, AI: Probabilistic Reasoning and Decision-making, Computer Vision 1
+  * Courses: AI: Probabilistic Reasoning and Decision-making, Computer Vision 1, Trustworthy ML
 * University of Mumbai
   * B.E. in Computer Engineering
   * Aug 2016 - Sep 2020
